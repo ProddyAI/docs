@@ -55,7 +55,7 @@
     "pages": ["introduction"]
   },
   {
-    "group": "Essentials",
+    "group": "Account",
     "pages": [
       "essentials/Account/Account-settings",
       "essentials/Account/Manage"
