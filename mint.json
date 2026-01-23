@@ -51,40 +51,42 @@
 
   "navigation": [
   {
-    "group": "Getting Started",
+    "group": "Introduction",
+    "pages": ["introduction"]
+  },
+  {
+    "group": "Essentials",
     "pages": [
-      "introduction",
-      "quickstart"
+      "essentials/Account/Account-settings",
+      "essentials/Account/Manage"
     ]
   },
   {
     "group": "Collaboration",
     "pages": [
-      "essentials/collaboration/chats.mdx",
-      "essentials/collaboration/notes",
-      "essentials/collaboration/canvas"
+      "essentials/Collaboration/Boards",
+      "essentials/Collaboration/Canvas",
+      "essentials/Collaboration/Channels-Genera",
+      "essentials/Collaboration/Chats",
+      "essentials/Collaboration/Members",
+      "essentials/Collaboration/Notes"
     ]
   },
   {
     "group": "Productivity",
     "pages": [
-      "essentials/productivity/tasks",
-      "essentials/productivity/calendar"
+      "essentials/Productivity/calendar",
+      "essentials/Productivity/outbox",
+      "essentials/Productivity/tasks",
+      "essentials/Productivity/threads"
     ]
   },
   {
     "group": "Workspace",
     "pages": [
-      "essentials/workspace/dashboard",
-      "essentials/workspace/reports",
-      "essentials/workspace/workspaces"
-    ]
-  },
-  {
-    "group": "Account",
-    "pages": [
-      "essentials/account/account-settings",
-      "essentials/account/notifications"
+      "essentials/Workspace/feedback",
+      "essentials/Workspace/reports",
+      "essentials/Workspace/workspaces"
     ]
   }
 ],
