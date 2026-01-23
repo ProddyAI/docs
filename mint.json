@@ -60,7 +60,7 @@
   {
     "group": "Collaboration",
     "pages": [
-      "essentials/collaboration/chats",
+      "essentials/collaboration/chats.mdx",
       "essentials/collaboration/notes",
       "essentials/collaboration/canvas"
     ]
