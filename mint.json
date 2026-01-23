@@ -54,13 +54,13 @@
     "group": "Getting Started",
     "pages": [
       "introduction",
-      "quickstart"
+      "quickstart",
+      "Boards"
     ]
   },
   {
     "group": "Collaboration",
     "pages": [
-      "essentials/collaboration/boards",
       "essentials/collaboration/chats",
       "essentials/collaboration/notes",
       "essentials/collaboration/canvas"
