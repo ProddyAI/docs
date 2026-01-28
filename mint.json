@@ -18,13 +18,15 @@
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "url": "support@proddy.tech"
     }
   ],
+
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "name": "Proddy",
+    "url": "https://www.proddy.tech/home"
   },
+
   "tabs": [
     {
       "name": "API Reference",
