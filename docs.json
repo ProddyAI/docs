@@ -1,0 +1,83 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "name": "Proddy Docs",
+  "theme": "mint",
+  "logo": {
+    "dark": "/Logos/2.svg",
+    "light": "/Logos/1.svg",
+    "height": 90
+  },
+  "favicon": "/favicon.svg",
+  "colors": {
+    "primary": "#0D9373",
+    "light": "#07C983",
+    "dark": "#0D9373"
+  },
+  "navbar": {
+    "links": [
+      {
+        "label": "Support",
+        "href": "mailto:support@proddy.tech"
+      }
+    ],
+    "primary": {
+      "type": "button",
+      "label": "Proddy",
+      "href": "https://www.proddy.tech/home"
+    }
+  },
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "Documentation",
+        "groups": [
+          {
+            "group": "Introduction",
+            "pages": [
+              "introduction"
+            ]
+          },
+          {
+            "group": "Account",
+            "pages": [
+              "Account/Account-settings",
+              "Account/Manage"
+            ]
+          },
+          {
+            "group": "Collaboration",
+            "pages": [
+              "Collaboration/Boards",
+              "Collaboration/Canvas",
+              "Collaboration/Channels-General",
+              "Collaboration/Chats",
+              "Collaboration/Members",
+              "Collaboration/Notes"
+            ]
+          },
+          {
+            "group": "Productivity",
+            "pages": [
+              "Productivity/calendar",
+              "Productivity/outbox",
+              "Productivity/tasks",
+              "Productivity/threads"
+            ]
+          },
+          {
+            "group": "Workspace",
+            "pages": [
+              "Workspace/feedback",
+              "Workspace/reports",
+              "Workspace/workspaces"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "footerSocials": {
+    "x": "https://x.com/ProddyAI",
+    "linkedin": "https://www.linkedin.com/company/proddyai/"
+  }
+}
