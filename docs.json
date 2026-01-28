@@ -3,8 +3,8 @@
   "name": "Proddy Docs",
   "theme": "mint",
   "logo": {
-    "dark": "/Logos/3.svg",
-    "light": "/Logos/4.svg",
+    "dark": "/Logos/4.svg",
+    "light": "/Logos/3.svg",
     "height": 140
   },
   "favicon": "/favicon.svg",
