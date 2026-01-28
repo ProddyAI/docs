@@ -76,8 +76,10 @@
       }
     ]
   },
-  "footerSocials": {
+  "footer": {
+  "socials": {
     "x": "https://x.com/ProddyAI",
     "linkedin": "https://www.linkedin.com/company/proddyai/"
   }
+}
 }
