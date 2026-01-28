@@ -73,17 +73,11 @@
             ]
           }
         ]
-      },
-      {
-        "tab": "API Reference",
-        "href": "api-reference"
       }
     ]
   },
-  "footer": {
-    "socials": {
-      "x": "https://x.com/ProddyAI",
-      "linkedin": "https://www.linkedin.com/company/proddyai/"
-    }
+  "footerSocials": {
+    "x": "https://x.com/ProddyAI",
+    "linkedin": "https://www.linkedin.com/company/proddyai/"
   }
 }
