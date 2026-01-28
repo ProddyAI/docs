@@ -4,7 +4,8 @@
 
   "logo": {
     "dark": "/Logos/2.svg",
-    "light": "/Logos/1.svg"
+    "light": "/Logos/1.svg",
+    "height": 32
   },
 
 
