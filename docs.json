@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "name": "Proddy Docs",
-  "theme": "maple",
+  "theme": "mint",
   "logo": {
     "dark": "/Logos/2.svg",
     "light": "/Logos/1.svg",
