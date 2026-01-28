@@ -74,10 +74,18 @@
           }
         ]
       }
+    ],
+    "bottomLinks": [
+      {
+        "label": "Follow us on X",
+        "icon": "x-twitter",
+        "href": "https://x.com/ProddyAI"
+      },
+      {
+        "label": "LinkedIn",
+        "icon": "linkedin",
+        "href": "https://www.linkedin.com/company/proddyai/"
+      }
     ]
-  },
-  "footerSocials": {
-  "x": "https://x.com/ProddyAI",
-  "linkedin": "https://www.linkedin.com/company/proddyai/"
-}
+  }
 }
