@@ -48,36 +48,36 @@
   {
     "group": "Account",
     "pages": [
-      "essentials/Account/Account-settings",
-      "essentials/Account/Manage"
+      "/Account/Account-settings",
+      "/Account/Manage"
     ]
   },
   {
     "group": "Collaboration",
     "pages": [
-      "essentials/Collaboration/Boards",
-      "essentials/Collaboration/Canvas",
-      "essentials/Collaboration/Channels-General",
-      "essentials/Collaboration/Chats",
-      "essentials/Collaboration/Members",
-      "essentials/Collaboration/Notes"
+      "/Collaboration/Boards",
+      "/Collaboration/Canvas",
+      "/Collaboration/Channels-General",
+      "/Collaboration/Chats",
+      "/Collaboration/Members",
+      "/Collaboration/Notes"
     ]
   },
   {
     "group": "Productivity",
     "pages": [
-      "essentials/Productivity/calendar",
-      "essentials/Productivity/outbox",
-      "essentials/Productivity/tasks",
-      "essentials/Productivity/threads"
+      "/Productivity/calendar",
+      "/Productivity/outbox",
+      "/Productivity/tasks",
+      "/Productivity/threads"
     ]
   },
   {
     "group": "Workspace",
     "pages": [
-      "essentials/Workspace/feedback",
-      "essentials/Workspace/reports",
-      "essentials/Workspace/workspaces"
+      "/Workspace/feedback",
+      "/Workspace/reports",
+      "/Workspace/workspaces"
     ]
   }
 ],
