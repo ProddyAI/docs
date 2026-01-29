@@ -4,8 +4,7 @@
   "theme": "mint",
   "logo": {
     "dark": "/Logos/2.svg",
-    "light": "/Logos/1.svg",
-    "height": 140
+    "light": "/Logos/1.svg"
   },
   "favicon": "/favicon.svg",
   "colors": {
