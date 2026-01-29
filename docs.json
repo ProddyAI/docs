@@ -17,6 +17,14 @@
       {
         "label": "Support",
         "href": "mailto:support@proddy.tech"
+      },
+      {
+        "label": "X",
+        "href": "https://x.com/ProddyAI"
+      },
+      {
+        "label": "LinkedIn",
+        "href": "https://www.linkedin.com/company/proddyai/"
       }
     ],
     "primary": {
