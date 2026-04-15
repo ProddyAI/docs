@@ -16,7 +16,7 @@
     "links": [
       {
         "label": "Support",
-        "href": "mailto:support@proddy.tech"
+        "href": "mailto:support@proddyai.app"
       },
       {
         "label": "X",
@@ -30,7 +30,7 @@
     "primary": {
       "type": "button",
       "label": "Proddy",
-      "href": "https://www.proddy.tech/home"
+      "href": "https://www.proddyai.app/home"
     }
   },
   "navigation": {
